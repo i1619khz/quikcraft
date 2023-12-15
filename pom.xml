@@ -11,6 +11,7 @@
 
     <modules>
         <module>quikcraft-validation</module>
+        <module>quikcraft-s3</module>
     </modules>
 
     <properties>
