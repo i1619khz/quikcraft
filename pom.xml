@@ -14,6 +14,7 @@
         <module>quikcraft-s3</module>
         <module>quikcraft-mail</module>
         <module>examples</module>
+        <module>quikcraft-http</module>
     </modules>
 
     <properties>
